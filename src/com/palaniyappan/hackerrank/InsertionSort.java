@@ -37,7 +37,8 @@ public class InsertionSort {
          insertIntoSorted(ar);
     	 
     	 /*int [] ar = {2, 4, 6, 8, 3};
-         insertIntoSorted(ar);*/
+         insertIntoSorted(ar);
+         */
     }
     
     
